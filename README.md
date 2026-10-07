@@ -66,6 +66,7 @@ Abre **PowerShell** (Windows) o **Terminal** (macOS/Linux).
 git clone https://github.com/jeansp137-create/sistema-saludador.git
 cd sistema-saludador
 ```
+Si arroja error es muy probable que necesites abrir la terminar (Administrador) por tema de permisos (Windows) 
 
 Comprueba que estás en la carpeta correcta: debe existir el archivo `pom.xml`.
 
