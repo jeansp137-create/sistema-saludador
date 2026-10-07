@@ -1,3 +1,5 @@
+PROMPT 1
+---------
 Actúa como un desarrollador experto en JavaFX. Necesito crear una aplicación de escritorio sencilla en JavaFX llamada "Sistema Saludador" configurada con Maven para fácil ejecución.
 
 Requerimientos Funcionales y de Interfaz:
@@ -13,8 +15,27 @@ Restricciones Técnicas:
 Estructura de Proyecto y Entregables:
 Genera la estructura de archivos con todo el código necesario:
 1. Código fuente funcional JavaFX (clase principal y controlador/interfaz).
-2. Un archivo `README.md` en la raíz con:
+2. Un archivo README.md en la raíz con:
    - Descripción del software.
    - Instrucciones claras y comandos paso a paso para compilar y ejecutar el proyecto con Maven.
-3. La estructura de carpetas `docs/prompts/` con un archivo `prompt_1.txt` donde quede guardado este prompt inicial.
-Todo esto en github
+3. La estructura de carpetas docs/prompts/ con un archivo prompt_1.txt donde quede guardado este prompt inicial.
+
+
+PROMPT 2
+---------
+Crea una aplicación de escritorio muy sencilla en JavaFX llamada "Sistema Saludador". Haz el código lo más simple posible en un solo archivo Java.
+
+Requisitos de la interfaz:
+- Campos para ingresar: Nombre, Edad y Hora (AM/PM).
+- Un botón "Solicitar saludo".
+- Al hacer clic en el botón, muestra un mensaje saludando al estudiante por su nombre y mencionando su edad.
+
+Archivos a crear en el proyecto:
+1. El archivo de código Java con la interfaz JavaFX.
+2. README.md con instrucciones sencillas de cómo ejecutar el programa.
+3. Carpeta `prompts/` con un archivo `.txt` para guardar la secuencia de prompts.
+4. Archivo `docs/reflexion.md` con las siguientes preguntas para responder:
+   - ¿Retos?
+   - ¿Descubrimientos y sorpresas?
+   - ¿Estructura del software?
+   - ¿Comandos, librerías o conceptos utilizados/no comprendidos?

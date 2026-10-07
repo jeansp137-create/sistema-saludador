@@ -8,7 +8,7 @@
     <artifactId>sistema-saludador</artifactId>
     <version>1.0.0</version>
     <name>Sistema Saludador</name>
-    <description>Aplicación de escritorio JavaFX para solicitar un saludo personalizado.</description>
+    <description>Aplicación de escritorio JavaFX para solicitar un saludo.</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,11 +21,6 @@
         <dependency>
             <groupId>org.openjfx</groupId>
             <artifactId>javafx-controls</artifactId>
-            <version>${javafx.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>org.openjfx</groupId>
-            <artifactId>javafx-fxml</artifactId>
             <version>${javafx.version}</version>
         </dependency>
     </dependencies>
