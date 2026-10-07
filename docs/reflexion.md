@@ -35,3 +35,5 @@ sistema-saludador/
 - Por qué JavaFX se declara en `pom.xml` y no se importa “solo” con el JDK.
 - Qué hace exactamente el plugin `javafx-maven-plugin`.
 - La diferencia entre armar la UI en código y hacerlo con FXML.
+
+**Cursor asumía varias cosas al momento de inidicar el paso a paso para la ejecución del prototipo, por lo que hizo falta aclarar eso y así tener un README más completo**
