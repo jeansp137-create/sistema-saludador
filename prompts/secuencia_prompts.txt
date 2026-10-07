@@ -1,28 +1,5 @@
 PROMPT 1
 ---------
-Actúa como un desarrollador experto en JavaFX. Necesito crear una aplicación de escritorio sencilla en JavaFX llamada "Sistema Saludador" configurada con Maven para fácil ejecución.
-
-Requerimientos Funcionales y de Interfaz:
-1. Caso de uso "Solicitar saludo" (incluye "Pedir datos"):
-   - Interfaz gráfica limpia que permita ingresar: Nombre (campo de texto), Edad (campo numérico) y Hora con selector AM/PM (ComboBox o RadioButtons).
-   - Un botón con la etiqueta "Solicitar saludo".
-   - Al presionar el botón, la aplicación valida los datos ingresados y muestra en pantalla un mensaje personalizado saludando al estudiante por su nombre y mencionando su edad.
-
-Restricciones Técnicas:
-- Lenguaje: Java (JDK 17 o superior).
-- Framework GUI: JavaFX.
-- Tipo: Aplicación de escritorio.
-Estructura de Proyecto y Entregables:
-Genera la estructura de archivos con todo el código necesario:
-1. Código fuente funcional JavaFX (clase principal y controlador/interfaz).
-2. Un archivo README.md en la raíz con:
-   - Descripción del software.
-   - Instrucciones claras y comandos paso a paso para compilar y ejecutar el proyecto con Maven.
-3. La estructura de carpetas docs/prompts/ con un archivo prompt_1.txt donde quede guardado este prompt inicial.
-
-
-PROMPT 2
----------
 Crea una aplicación de escritorio muy sencilla en JavaFX llamada "Sistema Saludador". Haz el código lo más simple posible en un solo archivo Java.
 
 Requisitos de la interfaz:
@@ -39,3 +16,8 @@ Archivos a crear en el proyecto:
    - ¿Descubrimientos y sorpresas?
    - ¿Estructura del software?
    - ¿Comandos, librerías o conceptos utilizados/no comprendidos?
+
+
+PROMPT 2
+---------
+la idea es que en README esté exactamente el paso a paso para que cuando le envíe el repositorio a un amigo, el sepa qué hacer exactamente para poder compilarlo, por lo que me parece que el archivo README que creaste está un poco imcompleto, no?
